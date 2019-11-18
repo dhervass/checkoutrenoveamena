@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 91.999999 92.000003"
+   version="1.1"
+   sodipodi:docname="ico_carro.svg"
+   width="92"
+   height="92"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata171">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ico_carro</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview169"
+     showgrid="false"
+     inkscape:zoom="2.6309923"
+     inkscape:cx="45.895"
+     inkscape:cy="44.849998"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <defs
+     id="defs152">
+    <style
+       id="style150">.cls-1{fill:#8cc3d3;}.cls-2{fill:#5d5454;}.cls-3{fill:#d2cccf;}</style>
+  </defs>
+  <title
+     id="title154">ico_carro</title>
+  <g
+     id="g179"
+     transform="translate(0.10999324,-1.1499733)">
+    <path
+       style="fill:#8cc3d3"
+       inkscape:connector-curvature="0"
+       id="path156"
+       d="m 0,13.350003 5.46,33.47 a 10.83,10.83 0 0 0 10.45,8.88 h 51.41 l 6.94,-42.35 z"
+       class="cls-1" />
+    <circle
+       style="fill:#5d5454"
+       id="circle158"
+       transform="rotate(-9.22)"
+       r="9.8599997"
+       cy="83.677498"
+       cx="2.8607748"
+       class="cls-2" />
+    <path
+       style="fill:#5d5454"
+       inkscape:connector-curvature="0"
+       id="path160"
+       d="m 63.84,72.280003 a 9.86,9.86 0 1 0 9.87,9.86 9.87,9.87 0 0 0 -9.87,-9.86 z"
+       class="cls-2" />
+    <path
+       style="fill:#d2cccf"
+       inkscape:connector-curvature="0"
+       id="path162"
+       d="M 76.08,2.3000031 66.41,61.220003 H 10.08 v 7.36 H 72.67 L 82.33,9.6700031 h 5.87 v -7.37 z m 0,0"
+       class="cls-3" />
+    <path
+       style="fill:#d2cccf"
+       inkscape:connector-curvature="0"
+       id="path164"
+       d="m 88.08,2.3000031 a 3.69,3.69 0 1 0 3.7,3.68 3.68,3.68 0 0 0 -3.7,-3.68 z"
+       class="cls-3" />
+    <path
+       style="fill:#d2cccf"
+       inkscape:connector-curvature="0"
+       id="path166"
+       d="m 10.24,61.220003 a 3.68,3.68 0 1 0 3.69,3.68 3.68,3.68 0 0 0 -3.69,-3.68 z"
+       class="cls-3" />
+  </g>
+</svg>

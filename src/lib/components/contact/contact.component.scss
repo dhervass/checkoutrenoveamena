@@ -1,0 +1,52 @@
+.alt-contact{
+    &__title,
+    &__txt{
+        display: block;
+        line-height: normal;
+        font-weight: bold;
+        word-break: break-all;
+        padding: 0 35px;
+        color: black;
+    }
+
+    &__title{
+        font-size: 16px;
+        margin-bottom: 10px;
+
+    }
+
+    &__txt{
+        font-size: 14px;
+        margin-bottom: 5px;
+        &--color{
+            color: #2da530;
+        }
+    }
+}
+
+@media (min-width: 768px) {
+    .alt-contact{
+        &__title,
+        &__txt{
+            padding: 0;
+        }
+    }
+}
+
+@media (min-width: 980px) {
+    .alt-contact{
+        &__title,
+        &__txt{
+            padding: 0;
+        }
+
+        &__title{
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+    
+        &__txt{
+            font-size: 16px;
+        }
+    }
+}

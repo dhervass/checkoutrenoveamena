@@ -1,0 +1,33 @@
+<fieldset class="alt-fieldset">
+    <div class="row">
+        <div class="col-12">
+            <legend class="d-none">Resumen datos de la compra</legend>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-4 mb-3 mb-md-5">
+            <span class="alt-contact__title">Tipo de entrega</span>
+            <span class="alt-contact__txt alt-contact__txt--color">ENTREGA EN CORREOS</span>
+            <span class="alt-contact__txt">Coste: <span class="alt-contact__txt--color">GRATIS</span></span>
+        </div>
+        <div class="col-12 col-md-4 mb-3 mb-md-5">
+            <span class="alt-contact__title">Datos de envío</span>
+            <span class="alt-contact__txt">Calle: <span class="alt-contact__txt--color">AVENIDA DE PORTUGAL</span></span>
+            <span class="alt-contact__txt">Número: <span class="alt-contact__txt--color">49 4B</span></span>
+            <span class="alt-contact__txt">Provincia: <span class="alt-contact__txt--color">MADRID</span></span>
+            <span class="alt-contact__txt">Ciudad: <span class="alt-contact__txt--color">MÓSTOLES 28931</span></span>
+        </div>
+        <div class="col-12 col-md-4 mb-4 mb-md-5">
+            <span class="alt-contact__title">A pagar hoy (terminal)</span>
+            <span class="alt-contact__txt alt-contact__txt--color">CONTRA REEMBOLSO</span>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 mb-4">
+            <div class="custom-control custom-checkbox">
+                <input formControlName="marcaConsentimiento" (click)="infoLegalConditions($event); checkForm()" type="checkbox" class="custom-control-input" id="legal-accept" />
+                <label class="custom-control-label font-weight-normal" for="legal-accept">He leído, acepto y firmo electrónicamente las <a class="text-primary font-weight-bold" title="ir a condiciones legales generales" href="#">condiciones generales</a>, <a class="text-primary font-weight-bold" title="ir a condiciones legales particulares amena" href="#">particulares de servicio amena</a>,<a class="text-primary font-weight-bold" title="ir a condiciones legales tiendamóvil" href="#">tiendamóvil</a>, y de <a class="text-primary font-weight-bold" title="ir a política de desistimiento" href="#">política de desistimiento</a>; autorizo a Orange a que indique a mi Banco que cargue en mi cuenta las facturas por el servicio contratado (solo para clientes con domicilación bancaria) y solicito que los servicios comiencen a presentarse una vez activados.</label>
+            </div>
+        </div>
+    </div>
+</fieldset>

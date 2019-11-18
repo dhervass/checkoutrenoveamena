@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "demo",
+    "e2e",
+    "environments",
+    "karma.conf.ts",
+    "proxy.config.ts"
+  ]
+}

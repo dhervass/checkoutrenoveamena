@@ -1,0 +1,41 @@
+.alt-order{
+	&__heading{
+		display: inline-block;
+		font-size: 20px;
+		line-height: normal;
+		color: #2da530;
+		width: calc(100% - 35px);
+	}
+
+	&__figure {
+		width: 50px;
+		height: 100px;
+		margin: 0;
+		display: inline-block;
+		vertical-align: top;
+		&__img {
+		  width: 100%;
+		  display: block;
+		}
+	  }
+	
+	  &__content {
+		display: inline-block;
+		width: calc(100% - 60px);
+		&__info {
+		  letter-spacing: 0;
+		  word-spacing: 0;
+		  font-size: 0;
+		  display: block;
+		}
+		&__block {
+		  color: #2da530;
+		  text-align: right;
+		}
+		&__txt {
+		  width: 50%;
+		  display: inline-block;
+		  font-size: 14px;
+		}
+	}
+}

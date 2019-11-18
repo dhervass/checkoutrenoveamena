@@ -1,0 +1,59 @@
+<fieldset class="fieldset">
+    <div class="row">
+        <div class="col-12">
+            <legend class="d-none">Relleno de los datos de entrega</legend>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-5">
+            <div class="form-group form-group--tooltip">
+                <label for="name" class="is-required text-break">Nombre</label>
+                <input type="text" class="form-control" id="name" disabled placeholder="">
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-5">
+            <div class="form-group form-group--tooltip">
+                <label for="surname" class="is-required text-break">Apellidos</label>
+                <input type="text" class="form-control" id="surname" disabled placeholder="">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-md-6 col-lg-5">
+            <div class="form-group">
+                <label class="is-required text-break" for="id">Tipo de documento</label>
+                <div class="dropdown dropdown--amena">
+                    <button class="btn btn-secondary dropdown-toggle" disabled type="button" id="id" (click)="toggleDropdown()">
+                        <span class="amena-dropdown__value">DNI</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-5">
+            <div class="form-group">
+                <label for="type-document" class="is-required text-break">Número de documento de identidad</label>
+                <input type="text" class="form-control" id="type-document" disabled placeholder=""/>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 col-lg-10">
+            <span class="alt-delivery__desc">Introduce tu e-mail para recibir información relativa a tu compra:</span>
+        </div>
+        <div class="col-12 col-lg-10">
+            <div class="form-group form-group--tooltip mb-5">
+                <label for="email" class="is-required text-break">Email de contacto</label>
+                <input type="text" class="form-control" id="email" placeholder="">
+                <a class="btn btn-secondary btn--icon" role="button" title="información ampliada" href="#" (click)="openMoreInfo=!openMoreInfo">
+                    <figure class="alt-form__figure">
+                        <img class="alt-form__img" src="assets/img/altamena/tooltip.svg" alt="información ampliada"/>
+                    </figure>
+                </a>
+                <div class="modal--tooltip" *ngIf="openMoreInfo">
+                    <button class="icon-altamena icon-altamena--close close" type="button" data-dismiss="modal" aria-label="Close"></button>
+                    <span class="alt-tooltip__msg">Este será el correo que utilizaremos para comunicarnos contigo.</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</fieldset>

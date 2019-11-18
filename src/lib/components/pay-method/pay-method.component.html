@@ -1,0 +1,26 @@
+<fieldset class="alt-pay">
+    <div class="row">
+        <div class="col-12">
+            <legend class="d-none">Escoge tu forma de pago</legend>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <span class="alt-pay__title">El pago contra reembolso, tiene un coste adicional de 2,06€ (impuestos incluidos) y lo verás reflejado en el resumen de tu pedido como “gastos por forma de pago”.</span>
+                <div class="custom-control custom-radio custom-radio--inline  ml-md-0 mr-md-5">
+                    <input formControlName="pago" name="pago" class="custom-control-input" type="radio" id="card" (change)="checkCard()" [value]="pagoTarjeta" [checked]="checked1" >
+                    <label class="custom-control-label text-break" for="card">Pago con tarjeta (PSP)</label>
+                </div>
+                <div class="custom-control custom-radio custom-radio--inline ml-md-0 mr-md-5">
+                    <input formControlName="pago" name="pago" class="custom-control-input" type="radio" id="paypal" (change)="checkPayPal()" [value]="pagoPaypal" [checked]="checked2">
+                    <label class="custom-control-label text-break" for="paypal">Paypal</label>
+                </div>
+                <div class="custom-control custom-radio custom-radio--inline ml-md-0 mr-md-5">
+                    <input formControlName="pago" name="pago" class="custom-control-input" type="radio" id="repayment" (change)="checkReembolso()" [value]="pagoContraRembolso" [checked]="checked3">
+                    <label class="custom-control-label text-break" for="repayment">Contra reembolso</label>
+                </div>
+            </div>
+        </div>
+    </div>
+</fieldset>

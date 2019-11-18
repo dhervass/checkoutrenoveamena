@@ -1,0 +1,273 @@
+.alt-terminal {
+  background-color: white;
+  padding: 45px 10px 30px;
+  font-size: 0;
+  &__figure {
+    width: 110px;
+    height: 220px;
+    margin: 0 auto 10px;
+
+    &--small {
+      width: 35px;
+      height: 65px;
+      margin-right: 10px;
+      display: inline-block;
+      border: 2px solid;
+      border-color: transparent;
+    }
+  }
+
+  &__items {
+    border-top: 1px solid #bfbcbc;
+    padding-top: 10px;
+    text-align: center;
+  }
+  &__photo {
+    &--active {
+      .alt-terminal__figure {
+        border-color: #2da530;
+      }
+    }
+  }
+
+  &__group {
+    padding: 0 15px;
+    margin-bottom: 20px;
+  }
+  &__text {
+    display: block;
+    color: #2da530;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: normal;
+
+    &--general {
+      color: black;
+    }
+  }
+  &__img {
+    width: 100%;
+    display: block;
+  }
+  &__description {
+    display: inline-block;
+    padding-left: 10px;
+    margin-bottom: 25px;
+    width: 45%;
+  }
+
+  &__details {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+    width: calc(55% - 15px);
+  }
+  &__box {
+    background-color: #ededed;
+    padding: 15px 15px 5px;
+    margin-bottom: 10px;
+  }
+
+  &__alert {
+    background-color: #c33400;
+    padding: 5px;
+    margin-bottom: 10px;
+    text-align: center;
+    .alt-terminal__text {
+      color: white;
+      font-size: 14px;
+      line-height: normal;
+      display: block;
+      word-break: break-all;
+    }
+  }
+
+  &__icons {
+    width: 16px;
+    height: 16px;
+    display: inline-block;
+    margin: 0 10px 0 0;
+  }
+  &__content {
+    font-size: 14px;
+    word-break: break-all;
+    width: calc(100% - 26px);
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+  }
+
+  &__elements {
+    text-align: center;
+  }
+
+  &__buttons {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid;
+    border-color: #979797;
+    background: #ffffff;
+    width: calc(50% - 7px);
+    margin: 0 7px 15px 0;
+    vertical-align: top;
+    min-height: 84px;
+
+    &--simple {
+      padding: 10px 0 25px 0;
+      background-color: #2da530;
+      color: white;
+      border-color: #2da530;
+      margin: 0 0 0 7px;
+
+      .alt-terminal__title,
+      .alt-terminal__data {
+        color: white;
+      }
+    }
+  }
+
+  &__title {
+    font-size: 14px;
+    line-height: normal;
+    font-weight: bold;
+    color: #2da530;
+    display: block;
+    &--big {
+      font-size: 22px;
+    }
+  }
+
+  &__info {
+    font-size: 13px;
+    line-height: normal;
+    display: inline-block;
+    text-align: left;
+    &--color {
+      color: #2da530;
+    }
+    &--light {
+      color: white;
+    }
+  }
+
+  &__btn {
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 0 5px;
+    border: 2px solid;
+    border-color: transparent;
+
+    &--active {
+      border-color: #2da530;
+    }
+  }
+  &__options {
+    padding: 0 10px;
+  }
+  &__subtitle {
+    font-size: 18px;
+    display: block;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .alt-terminal {
+    padding: 25px 10px 30px;
+    &__text {
+      font-size: 24px;
+    }
+    &__alert {
+      .alt-terminal__text {
+        font-size: 14px;
+      }
+    }
+    &__box {
+      padding: 5px 10px;
+    }
+    &__subtitle {
+      margin-top: 75px;
+    }
+    &__title {
+      font-size: 16px;
+      &--big {
+        font-size: 26px;
+      }
+    }
+    &__buttons {
+      padding: 10px;
+      width: calc(50% - 10px);
+      min-height: 103px;
+      &--simple {
+        margin: 0 0 15px 10px;
+      }
+    }
+    &__info {
+      font-size: 14px;
+    }
+  }
+}
+
+@media (min-width: 980px) {
+  .alt-terminal {
+    padding: 20px 55px 30px;
+    &__group {
+      margin-bottom: 25px;
+    }
+    &__text {
+      font-size: 30px;
+    }
+    &__figure {
+      margin: 0 auto 15px;
+      height: 360px;
+      width: 190px;
+      &--small {
+        margin: 0 7px 15px;
+        height: 85px;
+        width: 45px;
+      }
+    }
+    &__description {
+      margin-bottom: 45px;
+      width: 55%;
+    }
+    &__box {
+      margin-bottom: 20px;
+      padding: 20px;
+    }
+    &__content {
+      margin-bottom: 20px;
+    }
+    &__items {
+      padding-top: 20px;
+    }
+    &__subtitle {
+      font-size: 20px;
+      margin: 95px 0 20px;
+    }
+    &__buttons {
+      padding: 15px 25px;
+      width: calc(50% - 12px);
+      min-height: 147px;
+      &--simple {
+        margin: 0 0 0 12px;
+      }
+    }
+    &__title {
+      font-size: 18px;
+      &--big {
+        font-size: 32px;
+        margin-bottom: 10px;
+      }
+    }
+    &__info {
+      text-align: center;
+    }
+    &__details {
+      width: calc(45% - 15px);
+    }
+  }
+}

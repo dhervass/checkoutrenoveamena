@@ -1,0 +1,99 @@
+.alt-pedido {
+    &__heading{
+        display: inline-block;
+        font-size: 20px;
+        line-height: normal;
+        color: #2da530;
+        width: calc(100% - 35px);
+    }
+
+    &__question {
+      font-size: 16px;
+      line-height: normal;
+      font-weight: bold;
+      margin-bottom: 15px;
+    }
+  
+    &__content {
+      letter-spacing: 0;
+      word-spacing: 0;
+      font-size: 0;
+    }
+  
+    &__txt {
+      width: 70%;
+      font-size: 16px;
+      display: inline-block;
+      margin-bottom: 10px;
+      vertical-align: top;
+  
+      &--result {
+        width: 30%;
+        color: #2da530;
+        text-align: right;
+        padding-left: 5px;
+      }
+  
+      &--big {
+        color: #2da530;
+        font-size: 20px;
+        text-align: right;
+        width: 40%;
+        padding-left: 5px;
+        &:first-child {
+          text-align: left;
+          width: 58%;
+          padding: 0;
+        }
+      }
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .alt-pedido {
+      &__question {
+        font-size: 18px;
+        margin-bottom: 20px;
+      }
+  
+      &__txt {
+        width: 75%;
+  
+        &--result {
+          width: 25%;
+        }
+  
+        &--big {
+          font-size: 22px;
+          width: 25%;
+          &:first-child {
+            text-align: right;
+            width: 75%;
+          }
+        }
+      }
+  
+      &__content {
+        &:last-child {
+          margin: 20px 0 40px;
+        }
+      }
+    }
+  }
+  
+  @media (min-width: 980px) {
+    .alt-pedido {
+      &__txt {
+        font-size: 18px;
+  
+        &--big {
+          font-size: 26px;
+          width: 25%;
+          &:first-child {
+            width: 75%;
+          }
+        }
+      }
+    }
+  }
+  

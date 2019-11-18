@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 97.999998 98"
+   version="1.1"
+   sodipodi:docname="ico_movil.svg"
+   width="98"
+   height="98"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata403">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ico_movil</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview401"
+     showgrid="false"
+     inkscape:zoom="2.4205128"
+     inkscape:cx="28.815001"
+     inkscape:cy="48.75"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <defs
+     id="defs385">
+    <style
+       id="style383">.cls-1{fill:#c2b8b9;}.cls-2{fill:#fff;}.cls-3{fill:#605353;}.cls-4{fill:#1b4145;}</style>
+  </defs>
+  <title
+     id="title387">ico_movil</title>
+  <g
+     id="mobile"
+     transform="translate(20.184999,0.25)">
+    <path
+       class="cls-1"
+       d="m 1.41,89.83 a 8.69,8.69 0 0 0 8.67,8.67 h 40.3 A 8.69,8.69 0 0 0 59,89.83 V 78.57 L 30.23,74.23 1.41,78.57 Z"
+       transform="translate(-1.41,-1)"
+       id="path389"
+       inkscape:connector-curvature="0"
+       style="fill:#c2b8b9" />
+    <path
+       class="cls-1"
+       d="M 59,9.67 A 8.69,8.69 0 0 0 50.38,1 H 10.08 A 8.69,8.69 0 0 0 1.41,9.67 V 20.93 L 30.23,25.27 59,20.93 Z"
+       transform="translate(-1.41,-1)"
+       id="path391"
+       inkscape:connector-curvature="0"
+       style="fill:#c2b8b9" />
+    <circle
+       class="cls-2"
+       cx="28.82"
+       cy="87.529999"
+       r="3.25"
+       id="circle393"
+       style="fill:#ffffff" />
+    <path
+       class="cls-3"
+       d="M 37.05,12.6 H 23.4 a 1.63,1.63 0 0 1 0,-3.25 h 13.65 a 1.63,1.63 0 1 1 0,3.25 z"
+       transform="translate(-1.41,-1)"
+       id="path395"
+       inkscape:connector-curvature="0"
+       style="fill:#605353" />
+    <rect
+       class="cls-4"
+       y="19.93"
+       width="57.630001"
+       height="57.630001"
+       id="rect397"
+       x="0"
+       style="fill:#1b4145" />
+  </g>
+</svg>

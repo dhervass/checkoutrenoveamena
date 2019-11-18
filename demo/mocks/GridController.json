@@ -1,0 +1,1151 @@
+{
+    "cid": "2462407364108",
+    "c": "Page",
+    "locale": "",
+    "layoutId": "JZ_FC_OneColumn",
+    "site": "FrontComercialJazztel",
+    "profile": "Default",
+    "title": "Cesta",
+    "name": "Cesta Default",
+    "metatitle": "Cesta",
+    "mf": "",
+    "metaDescription": "",
+    "metaKey": "Cesta",
+    "urlFriendly": "cesta",
+    "property_config": {
+        "visibleSimpleMenu": "No",
+        "dataLayer": {
+            "pageType": "basket",
+            "assetType": "eshop"
+        },
+        "subHeaderVisible": "No",
+        "footerVisible": "No"
+    },
+    "topSection": [],
+    "topSectionSize": {
+        "categorySection": "topSection",
+        "xl": {
+            "col": "12"
+        },
+        "md": {
+            "col": "12"
+        },
+        "sm": {
+            "col": "12"
+        },
+        "lg": {
+            "col": "12"
+        },
+        "xs": {
+            "col": "12"
+        },
+        "xxl": {
+            "col": "12"
+        }
+    },
+    "bottomSection": [],
+    "bottomSectionSize": {
+        "categorySection": "bottomSection",
+        "xl": {
+            "col": "12"
+        },
+        "md": {
+            "col": "12"
+        },
+        "sm": {
+            "col": "12"
+        },
+        "lg": {
+            "col": "12"
+        },
+        "xs": {
+            "col": "12"
+        },
+        "xxl": {
+            "col": "12"
+        }
+    },
+    "leftSection": [],
+    "leftSectionSize": null,
+    "centralSection": [
+        {
+            "textList": [
+                {
+                    "description": "",
+                    "value": "Has elegido la tarifa",
+                    "key": "selection"
+                },
+                {
+                    "description": "",
+                    "value": "Después de la promoción",
+                    "key": "after.promotion"
+                },
+                {
+                    "description": "",
+                    "value": "Añade un dispositivo",
+                    "key": "add.device"
+                },
+                {
+                    "description": "",
+                    "value": "Añade Televisión",
+                    "key": "add.tv"
+                },
+                {
+                    "description": "",
+                    "value": "Añade servicios de fijo a tu pedido",
+                    "key": "add.service"
+                },
+                {
+                    "description": "",
+                    "value": "Eliminar este dispositivo",
+                    "key": "delete.device"
+                },
+                {
+                    "description": "",
+                    "value": "Televisión",
+                    "key": "tv"
+                },
+                {
+                    "description": "",
+                    "value": "Pack seleccionado",
+                    "key": "selected.pack"
+                },
+                {
+                    "description": "",
+                    "value": "Canales extra seleccionados",
+                    "key": "selected.extra.channels"
+                },
+                {
+                    "description": "",
+                    "value": "Eliminar",
+                    "key": "delete.pack"
+                },
+                {
+                    "description": "",
+                    "value": "Línea móvil",
+                    "key": "line.mobile"
+                },
+                {
+                    "description": "",
+                    "value": "Datos móvil",
+                    "key": "data.mobile"
+                },
+                {
+                    "description": "",
+                    "value": "Voz móvil",
+                    "key": "voice.mobile"
+                },
+                {
+                    "description": "",
+                    "value": "Línea móvil adicional",
+                    "key": "line.mobile.additional"
+                },
+                {
+                    "description": "",
+                    "value": "2,00",
+                    "key": "price.sva"
+                },
+                {
+                    "description": "",
+                    "value": "Tarifa",
+                    "key": "rate"
+                },
+                {
+                    "description": "",
+                    "value": "/mes",
+                    "key": "slide.month"
+                },
+                {
+                    "description": "",
+                    "value": "Packs disponibles",
+                    "key": "packs.avalaible"
+                },
+                {
+                    "description": "",
+                    "value": "Añadir",
+                    "key": "add"
+                },
+                {
+                    "description": "",
+                    "value": "Añadido",
+                    "key": "added"
+                },
+                {
+                    "description": "",
+                    "value": "Canales extra",
+                    "key": "channels.extra"
+                },
+                {
+                    "description": "",
+                    "value": "Añade una línea adicional",
+                    "key": "add.line"
+                },
+                {
+                    "description": "",
+                    "value": "Quiero añadir una línea adicional",
+                    "key": "want.add.line"
+                },
+                {
+                    "description": "",
+                    "value": "¿Quieres portar tu número?",
+                    "key": "want.carry.number"
+                },
+                {
+                    "description": "",
+                    "value": "Sí, quiero portar mi número",
+                    "key": "yes.want.carry"
+                },
+                {
+                    "description": "",
+                    "value": "No, quiero un número nuevo",
+                    "key": "no.want.carry"
+                },
+                {
+                    "description": "",
+                    "value": "Modificar",
+                    "key": "modify.tv.channel"
+                },
+                {
+                    "description": "",
+                    "value": "Quiero añadir Orange TV",
+                    "key": "want.add.orangeTv"
+                },
+                {
+                    "description": "",
+                    "value": "Por favor, revisa los campos marcados en rojo antes de continuar",
+                    "key": "error.check.fields"
+                },
+                {
+                    "description": "",
+                    "value": "Por favor, selecciona una de las dos opciones anteriores",
+                    "key": "error.select.options"
+                },
+                {
+                    "description": "",
+                    "value": "GRATIS",
+                    "key": "gratis"
+                }
+            ],
+            "priceDesignSvaHeader": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"cesta-menos-opciones__body-product-text-big-banner mb-0 font-weight-bold\">#priceTotal#&euro;/mes</p>\r\n</div>\r\n",
+                "name": "Diseño Precio Canales TV Cabecera",
+                "id": 2462412983059
+            },
+            "listDeepLink": [
+                {
+                    "imageFile": null,
+                    "subtitle": null,
+                    "name": "want.add.terminal",
+                    "title": "Quiero añadir Terminal",
+                    "eventLabel": null,
+                    "url": "/terminal",
+                    "target": "self"
+                },
+                {
+                    "imageFile": null,
+                    "subtitle": null,
+                    "name": "change.device.model",
+                    "title": "Cambiar modelo",
+                    "eventLabel": null,
+                    "url": "/terminal",
+                    "target": "self"
+                },
+                {
+                    "imageFile": null,
+                    "subtitle": null,
+                    "name": "want.add.line",
+                    "title": "Quiero añadir una línea adicional",
+                    "eventLabel": null,
+                    "url": "/terminal",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434370385&ssbinary=true",
+                    "subtitle": null,
+                    "name": "vente.internet.fibra.movil",
+                    "title": "Fibra Movil",
+                    "eventLabel": null,
+                    "url": "/venteajazztel/internetmovil/fibramovil",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434393794&ssbinary=true",
+                    "subtitle": null,
+                    "name": "vente.internet.fibra.llamadas",
+                    "title": "Fibra Llamadas",
+                    "eventLabel": null,
+                    "url": "https://www.jazztel.com/internet/ofertas-fibra.html",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434393803&ssbinary=true",
+                    "subtitle": null,
+                    "name": "vente.internet.adsl.llamadas",
+                    "title": "ADSL Llamadas",
+                    "eventLabel": null,
+                    "url": "https://www.jazztel.com/internet/adsl.html",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434370416&ssbinary=true",
+                    "subtitle": null,
+                    "name": "vente.internet.adsl.movil",
+                    "title": "ADSL Móvil",
+                    "eventLabel": null,
+                    "url": "/venteajazztel/internetmovil/adslmovil",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434450322&ssbinary=true",
+                    "subtitle": null,
+                    "name": "vente.solo.movil",
+                    "title": "Solo Móvil",
+                    "eventLabel": null,
+                    "url": "/venteajazztel/solomovil/tarifassolomovil",
+                    "target": "self"
+                },
+                {
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434284546&ssbinary=true",
+                    "subtitle": null,
+                    "name": "start.buy",
+                    "title": "Iniciar compra",
+                    "eventLabel": null,
+                    "url": "/checkout",
+                    "target": "self"
+                }
+            ],
+            "priceDesignSvaTV": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"comp-tv-centralPrice font-weight-bold\">#priceTotal#&euro;/mes</p>\r\n</div>\r\n",
+                "name": "Diseño Precio Canales TV",
+                "id": 2462413026907
+            },
+            "svaPackSelect": [
+                {
+                    "IdCRM4T": "1927",
+                    "name": "Champions "
+                },
+                {
+                    "IdCRM4T": "1925",
+                    "name": "Orange TV Fútbol "
+                },
+                {
+                    "IdCRM4T": "2941",
+                    "name": "Orange TV Cine y Series "
+                },
+                {
+                    "IdCRM4T": "1929",
+                    "name": "Cazavisión "
+                },
+                {
+                    "IdCRM4T": "2965",
+                    "name": "Deportes Extra "
+                },
+                {
+                    "IdCRM4T": "3029",
+                    "name": "FlixOle "
+                },
+                {
+                    "IdCRM4T": "3038",
+                    "name": "Infantil Max "
+                },
+                {
+                    "IdCRM4T": "3040",
+                    "name": "Lifestyle "
+                },
+                {
+                    "IdCRM4T": "3039",
+                    "name": "Millennial "
+                },
+                {
+                    "IdCRM4T": "2967",
+                    "name": "Música Premium "
+                },
+                {
+                    "IdCRM4T": "2966",
+                    "name": "Partidazo "
+                },
+                {
+                    "IdCRM4T": "2079",
+                    "name": "Rakuten Wuaki "
+                },
+                {
+                    "IdCRM4T": "1928",
+                    "name": "Series "
+                },
+                {
+                    "IdCRM4T": "2943",
+                    "name": "Gastos Entrega Equipo Orange TV Android "
+                },
+                {
+                    "IdCRM4T": "2560",
+                    "name": "Equipo Orange TV Premium "
+                }
+            ],
+            "showModulesCart": [
+                "Terminales",
+                "TV",
+                "Servicio Identificacion Llamadas"
+            ],
+            "priceDesign": {
+                "priceHtml": "<div class=\"owcs\">\r\n<div class=\"cesta-carrito__banner-title-price \">\r\n<div class=\"cesta-carrito__banner-title-price-number font-weight-bold\">#integer#</div>\r\n\r\n<div class=\"cesta-carrito__banner-title-price-cents font-weight-bold\">,#decimal#</div>\r\n\r\n<div class=\"cesta-carrito__banner-title-price-time font-weight-bold\">&euro;/mes</div>\r\n</div>\r\n</div>\r\n",
+                "name": "Diseño Precio Cesta Tarifa",
+                "id": 2462407688698
+            },
+            "richTextTV": "<div class=\"owcs\">\r\n<p class=\"cesta-carrito__body-product-text \">Lorem ipsum dolor sit amet.</p>\r\n\r\n<p class=\"cesta-carrito__body-product-text-bgBlue \">&iexcl;a&ntilde;ade todo el f&uacute;tbol!</p>\r\n</div>\r\n",
+            "title": null,
+            "popupSIL": {
+                "image": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434380346&ssbinary=true",
+                "name": "Layer Servicio Identificación de Llamadas",
+                "description": null,
+                "title": "Servicio Identificación de Llamadas",
+                "richText": "<div>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissimquis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</div>\r\n"
+            },
+            "headerColor": "ffcc00",
+            "textTitleColor": "da1884",
+            "priceDesignSVA": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"cesta-carrito__body-servicios-check\">Servicio Identificaci&oacute;n de Llamadas <span class=\"cesta-carrito__body-servicios-check-bold font-weight-bold\">#priceTotal#&euro;</span>/mes IVA incluido</p>\r\n</div>\r\n",
+                "name": "Diseño Precio SVA",
+                "id": 2462409810624
+            },
+            "compId": "orange-cesta-standalone",
+            "priceDesignDevice": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"cesta-menos-opciones__body-product-text-price \">A plazos en #duration# meses<br />\r\n<span class=\"cesta-menos-opciones__body-product-text-price-bold\">#initialPrice#&euro;</span> pago inicial</p>\r\n</div>\r\n",
+                "name": "Diseño Precio Dispositivo",
+                "id": 2462409809030
+            },
+            "priceDesignChannels": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"cesta-menos-opciones__body-noImgProduct-text-title-model \">#svaTV# <span class=\"cesta-menos-opciones__body-noImgProduct-text-title-model-bold font-weight-bold\"> #priceTV#&euro;/mes</span> IVA inc.</p>\r\n</div>\r\n",
+                "name": "Diseño Precio TV",
+                "id": 2462409810115
+            },
+            "webTabletSmartphone": [
+                "Web",
+                "Tablet",
+                "Smartphone"
+            ],
+            "richTextDevice": "<div class=\"owcs\">\r\n<p class=\"cesta-carrito__body-product-text \">Tu oferta no incluye ning&uacute;n terminal, si quieres puedes elegir uno.</p>\r\n</div>\r\n",
+            "id": 2462407688072,
+            "priceDesignProducts": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"cesta-menos-opciones__body-product-text-big font-weight-bold\">#priceTotal#&euro;/mes</p>\r\n</div>\r\n",
+                "name": "Diseño Precio Productos",
+                "id": 2462409808506
+            },
+            "priceDesignSvaInfoTv": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"comp-tv-centralPrice-text ml-1\">#priceTotal#&euro;/mes</p>\r\n</div>\r\n",
+                "name": "Diseño Precio Canales Información TV",
+                "id": 2462413952199
+            }
+        },
+        {
+            "textList": [
+                {
+                    "description": "",
+                    "value": "Filtrar por",
+                    "key": "filter.by"
+                },
+                {
+                    "description": "",
+                    "value": "Filtrar",
+                    "key": "filter"
+                },
+                {
+                    "description": "",
+                    "value": "Debes de seleccionar un filtro antes de aplicarlo",
+                    "key": "select.filter"
+                },
+                {
+                    "description": "",
+                    "value": "resultados",
+                    "key": "results"
+                },
+                {
+                    "description": "",
+                    "value": "Eliminar filtros",
+                    "key": "delete.filter"
+                },
+                {
+                    "description": "",
+                    "value": "Agotado",
+                    "key": "sold.out"
+                },
+                {
+                    "description": "",
+                    "value": "Listado",
+                    "key": "show.list"
+                },
+                {
+                    "description": "",
+                    "value": "Mosaico",
+                    "key": "show.mosaic"
+                },
+                {
+                    "description": "",
+                    "value": "No se encontraron coincidencias, por favor vuelva a intentarlo.",
+                    "key": "no.matches.found"
+                }
+            ],
+            "priceDesignVAPList": {
+                "priceHtml": "<div><span class=\"com-price-12\" style=\"font-size:12px\">En #cuotas#&nbsp;plazos desde</span></div>\r\n\r\n<div class=\"com-margin-top-7\" style=\"margin-top:7px\"><span class=\"com-family-bold com-price-24\" style=\"color:#DA1884; font-size:24px\">#monthlyPrice#</span><span class=\"com-family-bold com-price-20\" style=\"color:#DA1884; font-size:20px\">&euro;/mes</span></div>\r\n\r\n<div class=\"com-margin-top-5\" style=\"margin-top:5px\"><span class=\"com-price-12\" style=\"font-size:12px\">+#initialPrice# pago inicial = </span><strong class=\"com-family-bold com-price-12\" style=\"font-size:12px; font-weight:bold\">#totalPrice#&euro;</strong></div>\r\n",
+                "comercialAct": "Renove",
+                "name": "Diseño VAP Renove Listado",
+                "description": null,
+                "title": null
+            },
+            "filterModule": [
+                {
+                    "textList": [
+                        {
+                            "description": "Smartphone",
+                            "value": "Smartphones",
+                            "key": "Smartphones"
+                        },
+                        {
+                            "description": "Tablet",
+                            "value": "Tablets",
+                            "key": "Tablets"
+                        },
+                        {
+                            "description": "Smart TV - Consolas",
+                            "value": "SmartTv,Objetos Conectados,Consolas",
+                            "key": "SmartTv,Objetos Conectados,Consolas"
+                        }
+                    ],
+                    "accordion": "false",
+                    "compId": "filter-type-device",
+                    "name": "Filtro Tipo de dispositivo",
+                    "description": null,
+                    "id": 2462410461235,
+                    "title": "Tipo de dispositivo",
+                    "technicalName": "Tipo de dispositivo"
+                },
+                {
+                    "textList": [
+                        {
+                            "description": "",
+                            "value": "Alcatel",
+                            "key": "Alcatel"
+                        },
+                        {
+                            "description": "",
+                            "value": "Apple",
+                            "key": "Apple"
+                        },
+                        {
+                            "description": "",
+                            "value": "BQ",
+                            "key": "BQ"
+                        },
+                        {
+                            "description": "",
+                            "value": "Google",
+                            "key": "Google"
+                        },
+                        {
+                            "description": "",
+                            "value": "Huawei",
+                            "key": "Huawei"
+                        },
+                        {
+                            "description": "",
+                            "value": "Honor",
+                            "key": "Honor"
+                        },
+                        {
+                            "description": "",
+                            "value": "LG",
+                            "key": "LG"
+                        },
+                        {
+                            "description": "",
+                            "value": "Lenovo",
+                            "key": "Lenovo"
+                        },
+                        {
+                            "description": "",
+                            "value": "Motorola",
+                            "key": "Motorola"
+                        },
+                        {
+                            "description": "",
+                            "value": "Nokia",
+                            "key": "Nokia"
+                        },
+                        {
+                            "description": "",
+                            "value": "Samsung",
+                            "key": "Samsung"
+                        },
+                        {
+                            "description": "",
+                            "value": "Sony",
+                            "key": "Sony"
+                        },
+                        {
+                            "description": "",
+                            "value": "Sharp",
+                            "key": "Sharp"
+                        },
+                        {
+                            "description": "",
+                            "value": "Tecmobile",
+                            "key": "Tecmobile"
+                        },
+                        {
+                            "description": "",
+                            "value": "Thomson",
+                            "key": "Thomson"
+                        },
+                        {
+                            "description": "",
+                            "value": "Toshiba",
+                            "key": "Toshiba"
+                        },
+                        {
+                            "description": "",
+                            "value": "Xiaomi",
+                            "key": "Xiaomi"
+                        },
+                        {
+                            "description": "",
+                            "value": "Wiko",
+                            "key": "Wiko"
+                        }
+                    ],
+                    "accordion": "false",
+                    "compId": "filter-type-device",
+                    "name": "Filtro Marca",
+                    "description": null,
+                    "id": 2462414723609,
+                    "title": "Marca",
+                    "technicalName": "brand"
+                },
+                {
+                    "unity": "€",
+                    "minValue": "0",
+                    "accordion": "false",
+                    "compId": "filter-price-fee",
+                    "maxValue": "100",
+                    "name": "Filtro Rango de precios de cuota mensual",
+                    "description": "Rango de precios de cuota mensual",
+                    "interval": "10",
+                    "id": 2462410460495,
+                    "title": "Cuota mensual",
+                    "technicalName": "price.fee"
+                },
+                {
+                    "textList": [
+                        {
+                            "description": "",
+                            "value": "Azul",
+                            "key": "Azul"
+                        },
+                        {
+                            "description": "",
+                            "value": "Plateado",
+                            "key": "Plata"
+                        },
+                        {
+                            "description": "",
+                            "value": "Dorado",
+                            "key": "Dorado"
+                        },
+                        {
+                            "description": "",
+                            "value": "Negro",
+                            "key": "Negro"
+                        },
+                        {
+                            "description": "",
+                            "value": "Rojo",
+                            "key": "Rojo"
+                        },
+                        {
+                            "description": "",
+                            "value": "Rosa",
+                            "key": "Rosa"
+                        },
+                        {
+                            "description": "",
+                            "value": "Verde",
+                            "key": "Verde"
+                        },
+                        {
+                            "description": "",
+                            "value": "Gris",
+                            "key": "Gris"
+                        },
+                        {
+                            "description": "",
+                            "value": "Blanco",
+                            "key": "Blanco"
+                        },
+                        {
+                            "description": "",
+                            "value": "Gris espacial",
+                            "key": "Gris espacial"
+                        },
+                        {
+                            "description": "",
+                            "value": "Titanium",
+                            "key": "Titanium"
+                        },
+                        {
+                            "description": "",
+                            "value": "Marrón",
+                            "key": "Marrón"
+                        },
+                        {
+                            "description": "",
+                            "value": "Oro",
+                            "key": "Oro"
+                        },
+                        {
+                            "description": "",
+                            "value": "Naranja",
+                            "key": "Naranja"
+                        },
+                        {
+                            "description": "",
+                            "value": "Negro brillo",
+                            "key": "Negro brillo"
+                        },
+                        {
+                            "description": "",
+                            "value": "Negro marino",
+                            "key": "Negro marino"
+                        },
+                        {
+                            "description": "",
+                            "value": "Bambú",
+                            "key": "Bambú"
+                        },
+                        {
+                            "description": "",
+                            "value": "Ciruela",
+                            "key": "Ciruela"
+                        },
+                        {
+                            "description": "",
+                            "value": "Morado",
+                            "key": "Morado"
+                        },
+                        {
+                            "description": "",
+                            "value": "Lavanda",
+                            "key": "Lavanda"
+                        },
+                        {
+                            "description": "",
+                            "value": "Titán",
+                            "key": "Titán"
+                        },
+                        {
+                            "description": "",
+                            "value": "Frost White",
+                            "key": "Frost White"
+                        },
+                        {
+                            "description": "",
+                            "value": "Beige",
+                            "key": "Beige"
+                        },
+                        {
+                            "description": "",
+                            "value": "Coral",
+                            "key": "Coral"
+                        },
+                        {
+                            "description": "",
+                            "value": "Amarillo",
+                            "key": "Amarillo"
+                        },
+                        {
+                            "description": "",
+                            "value": "Gris acero",
+                            "key": "Gris acero"
+                        }
+                    ],
+                    "accordion": "false",
+                    "compId": "filter-type-device",
+                    "name": "Filtro Color",
+                    "description": null,
+                    "id": 2462414724617,
+                    "title": "Color",
+                    "technicalName": "color"
+                }
+            ],
+            "numberDevicesDesktop": "12",
+            "listDeepLink": [
+                {
+                    "image": null,
+                    "imageFile": null,
+                    "subtitle": null,
+                    "name": "more.info.device",
+                    "id": 2462410472268,
+                    "title": "Más información",
+                    "eventLabel": null,
+                    "url": "/",
+                    "target": "self"
+                },
+                {
+                    "image": null,
+                    "imageFile": null,
+                    "subtitle": null,
+                    "name": "want.it.device",
+                    "id": 2462410472161,
+                    "title": "Lo quiero",
+                    "eventLabel": null,
+                    "url": "/venteajazztel/dispositivos/detalleterminal",
+                    "target": "self"
+                }
+            ],
+            "description": "Escaparate de Smartphone",
+            "displayMode": "Modo Listado",
+            "priceDesignVAPMosaic": {
+                "priceHtml": "<div><span class=\"com-price-14-12-12\" style=\"font-size:14px\">En #cuotas#&nbsp;plazos desde</span></div>\r\n\r\n<div class=\"com-margin-top-18-15-15\" style=\"margin-top: 18px;\"><span class=\"com-family-bold com-price-43-36-36\" style=\"color:#da1884; font-size:43px\">#monthlyPrice#</span><span class=\"com-family-bold com-price-24-20-20\" style=\"color:#DA1884; font-size:24px\">&euro;/mes</span></div>\r\n\r\n<div class=\"com-margin-top-10-8-8\" style=\"margin-top: 10px;\"><span class=\"com-price-14-12-12\" style=\"font-size:14px\">+#initialPrice# pago inicial = </span><strong class=\"com-family-bold com-price-14-12-12\" style=\"font-size:14px; font-weight:bold\">#totalPrice#&euro;</strong></div>\r\n",
+                "comercialAct": "Renove",
+                "name": "Diseño VAP Renove Mosaico",
+                "description": null,
+                "title": null
+            },
+            "compId": "orange-escaparate-terminales-popup",
+            "numberDevicesSmartphone": "6",
+            "name": "Escaparate de dispositivos Smartphone en Cesta ",
+            "sortModuleJz": [
+                {
+                    "textList": [],
+                    "compId": "jz-sort-module",
+                    "sortType": "Automática",
+                    "name": "Ordenación Cuota de más alto a más bajo",
+                    "description": "Ordenación de dispositivos según su cuota del más alto al más bajo",
+                    "selectOrderDevicesJZ": null,
+                    "id": 2462414497055,
+                    "title": "Mayor Cuota",
+                    "technicalName": "-feePrice,brand,model"
+                },
+                {
+                    "textList": [],
+                    "compId": "jz-sort-module",
+                    "sortType": "Automática",
+                    "name": "Ordenación Alfabética de Dispositivos A-Z",
+                    "description": "Ordenación de dispositivos alfabética por marca y modelo en orden ascendente",
+                    "selectOrderDevicesJZ": null,
+                    "id": 2462410795682,
+                    "title": "Alfabético A-Z",
+                    "technicalName": "brand,model,feePrice"
+                },
+                {
+                    "textList": [],
+                    "compId": "jz-sort-module",
+                    "sortType": "Automática",
+                    "name": "Ordenación Cuota de más bajo a más alto",
+                    "description": "Ordenación de dispositivos según su cuota del más bajo al más alto",
+                    "selectOrderDevicesJZ": null,
+                    "id": 2462414496928,
+                    "title": "Menor Cuota",
+                    "technicalName": "feePrice,brand,model"
+                },
+                {
+                    "textList": [],
+                    "compId": "jz-sort-module",
+                    "sortType": "Manual",
+                    "name": "Ordenación Manual Recomendados",
+                    "description": null,
+                    "selectOrderDevicesJZ": "RecomendadosPrueba",
+                    "id": 2462410798490,
+                    "title": "Recomendados",
+                    "technicalName": null
+                }
+            ],
+            "id": 2462417161714,
+            "numberDevicesTablet": "6"
+        },
+        {
+            "startBuyButton": "08a800",
+            "textList": [
+                {
+                    "description": "",
+                    "value": "ver detalle",
+                    "key": "ver.detalle"
+                },
+                {
+                    "description": "",
+                    "value": "Sin promoción",
+                    "key": "sin.promocion"
+                },
+                {
+                    "description": "",
+                    "value": "Con promoción",
+                    "key": "con.promocion"
+                },
+                {
+                    "description": "",
+                    "value": "GRATIS",
+                    "key": "gratis"
+                },
+                {
+                    "description": "",
+                    "value": "Total ",
+                    "key": "total"
+                },
+                {
+                    "description": "",
+                    "value": "incluido)",
+                    "key": "incluido"
+                },
+                {
+                    "description": "",
+                    "value": "(",
+                    "key": "parentesis"
+                },
+                {
+                    "description": "",
+                    "value": "Pago mensual",
+                    "key": "pago.mensual"
+                },
+                {
+                    "description": "",
+                    "value": "Pago inicial",
+                    "key": "pago.inicial"
+                },
+                {
+                    "description": "",
+                    "value": "A incluir sólo en primera factura",
+                    "key": "primera.factura"
+                },
+                {
+                    "description": "",
+                    "value": "Router Wifi Fibra",
+                    "key": "router.wifi.fibra"
+                },
+                {
+                    "description": "",
+                    "value": "Router Wifi ADSL",
+                    "key": "router.wifi.adsl"
+                },
+                {
+                    "description": "",
+                    "value": "Servicio de identificación de Llamadas",
+                    "key": "identificador.llamadas"
+                },
+                {
+                    "description": "",
+                    "value": "Precio",
+                    "key": "precio"
+                },
+                {
+                    "description": "",
+                    "value": "Gastos de envío",
+                    "key": "gastos.envio"
+                },
+                {
+                    "description": "",
+                    "value": "10,00",
+                    "key": "gastos.envio.precio"
+                },
+                {
+                    "description": "",
+                    "value": "Continuar",
+                    "key": "tv.continue"
+                },
+                {
+                    "description": "",
+                    "value": "0,00",
+                    "key": "router.wifi.fibra.precio"
+                },
+                {
+                    "description": "",
+                    "value": "0,00",
+                    "key": "router.wifi.adsl.precio"
+                },
+                {
+                    "description": "",
+                    "value": "Orange TV",
+                    "key": "orange.tv"
+                },
+                {
+                    "description": "",
+                    "value": "PACKS SELECCIONADOS",
+                    "key": "packs.selected"
+                },
+                {
+                    "description": "",
+                    "value": "Precios con IVA includo",
+                    "key": "prices.iva.included"
+                },
+                {
+                    "description": "",
+                    "value": "Televisión",
+                    "key": "television"
+                },
+                {
+                    "description": "",
+                    "value": "TOTAL",
+                    "key": "total.uppercase"
+                },
+                {
+                    "description": "",
+                    "value": "CANALES EXTRAS SELECCIONADOS",
+                    "key": "packs.selected.extra"
+                },
+                {
+                    "description": "",
+                    "value": "Añadir",
+                    "key": "add.device"
+                },
+                {
+                    "description": "",
+                    "value": "Seleccionar Terminal",
+                    "key": "select.device"
+                },
+                {
+                    "description": "",
+                    "value": "Tarjeta SIM, MicroSIM y NanoSIM",
+                    "key": "cards.available"
+                },
+                {
+                    "description": "",
+                    "value": "0,00",
+                    "key": "price.cards"
+                }
+            ],
+            "previousButton": {
+                "altText": null,
+                "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434430161&ssbinary=true",
+                "name": "Faldon Cesta Vaciar Carrito",
+                "id": 2462406563770,
+                "title": "vaciar carrito",
+                "eventLabel": "VACIAR_CARRITO_CESTA",
+                "url": "/"
+            },
+            "priceDesignMonth": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__footer-text font-weight-bold\">#totalPrice# <span class=\"faldonCesta__footer-text-less font-weight-bold\">&euro;/mes</span></p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Pago Mensual",
+                "id": 2462406441910
+            },
+            "priceDesignWithPromotion": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__body-text-price font-weight-bold\">#totalPrice#&euro;</p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio con Promoción",
+                "id": 2462406702964
+            },
+            "priceDesignCurrent": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__footer-text font-weight-bold\">#totalPrice# <span class=\"faldonCesta__footer-text-less font-weight-bold\">&euro;/hoy</span></p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Pago Hoy",
+                "id": 2462406512777
+            },
+            "listDeepLink": [
+                {
+                    "altText": null,
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434450298&ssbinary=true",
+                    "name": "not.need.device",
+                    "id": 2462417824414,
+                    "title": "No necesito un terminal",
+                    "eventLabel": "NO_NECESITO_TERMINAL_CESTA",
+                    "url": null
+                },
+                {
+                    "altText": null,
+                    "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434450308&ssbinary=true",
+                    "name": "not.want.change.device",
+                    "id": 2462417824712,
+                    "title": "No quiero cambiar el terminal",
+                    "eventLabel": "NO_QUIERO_CAMBIAR_TERMINAL_CESTA",
+                    "url": null
+                }
+            ],
+            "priceDesignWithoutPromotion": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__body-text-throught\">#totalPrice#&euro;</p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Sin Promoción",
+                "id": 2462406696839
+            },
+            "showPrices": [
+                "Envío",
+                "Router Fibra",
+                "Router Adsl"
+            ],
+            "title": "Tu pedido",
+            "priceDesignFirstInvoice": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__footer-text-primeraFactura\">#totalPrice#&euro; en la primera&nbsp;factura</p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Pago Inicial",
+                "id": 2462406512200
+            },
+            "Layer": [
+                {
+                    "image": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434398519&ssbinary=true",
+                    "name": "Layer Pago Mensual",
+                    "description": null,
+                    "id": 2462406578646,
+                    "title": "Pago mensual ",
+                    "richText": "<div>Esta es la cantidad que pagar&aacute;s cada mes por los servicios que tienes contratados con JAZZTEL. Aqu&iacute; tambi&eacute;n est&aacute;n incluidos los pagos</div>\r\n"
+                },
+                {
+                    "image": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434404245&ssbinary=true",
+                    "name": "Layer Primera Factura",
+                    "description": null,
+                    "id": 2462406658677,
+                    "title": "Pago en primera factura",
+                    "richText": "<div>Esta es la cantidad que se pagar&aacute;&nbsp;una &uacute;nica vez y que aparecer&aacute; solamente en tu primera factura.</div>\r\n"
+                },
+                {
+                    "image": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434144826&ssbinary=true",
+                    "name": "Layer Pago Inicial",
+                    "description": null,
+                    "id": 2462406658887,
+                    "title": "Pago inicial",
+                    "richText": "<div>Esta es la cantidad que pagar&aacute;s cada mes por los servicios que tienes contratados con JAZZTEL. Aqu&iacute; tambi&eacute;n est&aacute;n incluidos los pagos</div>"
+                }
+            ],
+            "nextButton": {
+                "altText": null,
+                "imageFile": "/ss/Satellite?blobcol=urldata&blobkey=id&blobnocache=true&blobtable=MungoBlobs&blobwhere=1532434463267&ssbinary=true",
+                "name": "Faldon Cesta Iniciar Compra",
+                "id": 2462406563631,
+                "title": "Iniciar Compra",
+                "eventLabel": "INICIAR_COMPRA_CESTA",
+                "url": "/checkout"
+            },
+            "priceDesignTotalWithoutPromotion": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__body-text-throught total\">#totalPrice#&euro;</p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Sin Promoción Total",
+                "id": 2462406703712
+            },
+            "compId": "orange-faldon-cesta",
+            "id": 2462406563205,
+            "priceDesignTotalWithPromotion": {
+                "priceHtml": "<div class=\"owcs\">\r\n<p class=\"faldonCesta__body-text-price total font-weight-bold f-size-20-16\">#totalPrice#&euro;</p>\r\n</div>\r\n",
+                "comercialAct": null,
+                "name": "Diseño Precio Con Promoción Total",
+                "id": 2462409979419
+            }
+        }
+    ],
+    "centralSectionSize": {
+        "categorySection": "centralSection",
+        "xl": {
+            "col": "12"
+        },
+        "md": {
+            "col": "12"
+        },
+        "sm": {
+            "col": "12"
+        },
+        "lg": {
+            "col": "12"
+        },
+        "xs": {
+            "col": "12"
+        },
+        "xxl": {
+            "col": "12"
+        }
+    },
+    "rightSection": [],
+    "rightSectionSize": null
+}

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 91.999997 92.000002"
+   version="1.1"
+   sodipodi:docname="ico_grafico.svg"
+   width="92"
+   height="92"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata387">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ico_grafico</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     id="namedview385"
+     showgrid="false"
+     inkscape:zoom="3.287824"
+     inkscape:cx="45.935001"
+     inkscape:cy="35.889999"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" />
+  <defs
+     id="defs375">
+    <style
+       id="style373">.cls-1{fill:#bdb6b6;}.cls-2{fill:#f2d059;}</style>
+  </defs>
+  <title
+     id="title377">ico_grafico</title>
+  <g
+     id="g394"
+     transform="translate(0.065,-10.12501)">
+    <path
+       style="fill:#bdb6b6"
+       inkscape:connector-curvature="0"
+       d="M 77.74,82.580001 H 0 v 6.55 a 2.86,2.86 0 0 0 2.87,2.87 H 89 a 2.86,2.86 0 0 0 2.87,-2.87 v -6.55 z"
+       class="cls-1"
+       data-name="&lt;Trazado&gt;"
+       id="_Trazado_" />
+    <path
+       style="fill:#f2d059"
+       inkscape:connector-curvature="0"
+       d="m 9.94,31.790001 h 8.39 a 2.86,2.86 0 0 1 2.87,2.87 v 47.92 H 7.11 v -47.92 a 2.86,2.86 0 0 1 2.83,-2.87 z"
+       class="cls-2"
+       data-name="&lt;Trazado&gt;"
+       id="_Trazado_2" />
+    <path
+       style="fill:#f2d059"
+       inkscape:connector-curvature="0"
+       d="m 31.11,46.060001 h 8.39 a 2.87,2.87 0 0 1 2.87,2.88 v 33.64 h -14.1 v -33.64 a 2.87,2.87 0 0 1 2.84,-2.88 z"
+       class="cls-2"
+       data-name="&lt;Trazado&gt;"
+       id="_Trazado_3" />
+    <path
+       style="fill:#f2d059"
+       inkscape:connector-curvature="0"
+       d="m 52.34,20.250001 h 8.39 a 2.87,2.87 0 0 1 2.87,2.87 v 59.46 H 49.47 v -59.49 a 2.87,2.87 0 0 1 2.87,-2.84 z"
+       class="cls-2"
+       data-name="&lt;Trazado&gt;"
+       id="_Trazado_4" />
+    <path
+       style="fill:#f2d059"
+       inkscape:connector-curvature="0"
+       d="m 73.54,32.440001 h 8.39 a 2.87,2.87 0 0 1 2.88,2.87 v 47.27 H 70.67 v -47.27 a 2.87,2.87 0 0 1 2.87,-2.87 z"
+       class="cls-2"
+       data-name="&lt;Trazado&gt;"
+       id="_Trazado_5" />
+  </g>
+</svg>

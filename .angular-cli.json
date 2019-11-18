@@ -1,0 +1,130 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "project": {
+    "name": "orange-module"
+  },
+  "apps": [
+    {
+      "name": "lib",
+      "root": "src",
+      "appRoot": "lib",
+      "outDir": "dist",
+      "main": "main.ts",
+      "polyfills": "polyfills.ts",
+      "test": "test.ts",
+      "tsconfig": "tsconfig.app.json",
+      "testTsconfig": "tsconfig.spec.json",
+      "prefix": "orange",
+      "environmentSource": "../src/environments/environment.ts",
+      "environments": {
+        "dev": "../src/environments/environment.ts",
+        "int": "../src/environments/environment.int.ts",
+        "uat": "../src/environments/environment.uat.ts",
+        "prev": "../src/environments/environment.prev.ts",
+        "prod": "../src/environments/environment.prod.ts"
+      },
+      "assets": [
+        {
+          "glob": "**/*",
+          "input": "../node_modules/@orange/boostedosp/dist/img",
+          "output": "./assets/img"
+        },
+        {
+          "glob": "**/*",
+          "input": "./mocks/",
+          "output": "./mocks/"
+        },
+        {
+          "glob": "**/*",
+          "input": "./assets/",
+          "output": "./assets/"
+        },
+        {
+          "glob": "**/*",
+          "input": "../node_modules/@orange/boostedosp/dist/fonts",
+          "output": "./fonts/"
+        }
+      ],
+      "styles": [
+        "styles.scss"
+      ]
+    },
+    {
+      "name": "demo",
+      "root": "demo",
+      "outDir": "dist",
+      "assets": [
+        "favicon.ico",
+        {
+          "glob": "**/*",
+          "input": "../node_modules/@orange/boostedosp/dist/img",
+          "output": "./assets/img"
+        },
+        {
+          "glob": "**/*",
+          "input": "../mocks/",
+          "output": "./mocks/"
+        },
+        {
+          "glob": "**/*",
+          "input": "../src/assets/",
+          "output": "./assets/"
+        },
+        {
+          "glob": "**/*",
+          "input": "../node_modules/@orange/boostedosp/dist/fonts",
+          "output": "./fonts/"
+        }
+      ],
+      "index": "index.html",
+      "main": "main.ts",
+      "polyfills": "polyfills.ts",
+      "test": "test.ts",
+      "tsconfig": "tsconfig.app.json",
+      "testTsconfig": "tsconfig.spec.json",
+      "prefix": "orange",
+      "styles": [
+        "../src/styles.scss"
+      ],
+      "scripts": [
+        "../node_modules/@orange/boostedosp/dist/js/boosted.min.js"
+      ],
+      "environmentSource": "../src/environments/environment.ts",
+      "environments": {
+        "dev": "../src/environments/environment.ts",
+        "int": "../src/environments/environment.int.ts",
+        "uat": "../src/environments/environment.uat.ts",
+        "prev": "../src/environments/environment.prev.ts",
+        "prod": "../src/environments/environment.prod.ts"
+      }
+    }
+  ],
+  "e2e": {
+    "protractor": {
+      "config": "./protractor.conf.js"
+    }
+  },
+  "lint": [
+    {
+      "project": "demo/tsconfig.app.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "demo/tsconfig.spec.json",
+      "exclude": "**/node_modules/**"
+    },
+    {
+      "project": "e2e/tsconfig.e2e.json",
+      "exclude": "**/node_modules/**"
+    }
+  ],
+  "test": {
+    "karma": {
+      "config": "./karma.conf.js"
+    }
+  },
+  "defaults": {
+    "styleExt": "scss",
+    "component": {}
+  }
+}

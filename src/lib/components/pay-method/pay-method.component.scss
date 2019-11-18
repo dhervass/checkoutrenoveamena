@@ -1,0 +1,16 @@
+.alt-pay{
+    &__title{
+        display: block;
+        font-size: 16px;
+        line-height: normal;
+        font-weight: bold;
+        color: black;
+    }
+    &__title,
+    .custom-control{
+        margin-bottom: 20px;
+    }
+    .custom-radio--inline .custom-control-label{
+        width: auto;
+    }
+}

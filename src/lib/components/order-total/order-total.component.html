@@ -1,0 +1,53 @@
+<fieldset class="fieldset">
+    <div class="row">
+        <div class="col-12">
+            <legend class="d-none">Resumen pedido</legend>
+        </div>
+    </div>
+    <div class="alt-pedido">
+        <div class="row">
+            <div class="col-12 my-2 mb-md-3">
+                <span class="alt-pedido__question">¿Tienes un cupón de descuento? Introdúcelo aquí:</span>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 col-md-5 col-lg-4">
+                <div class="form-group" [formGroup]="formGroup">
+                    <label class="text-break" for="promo-code"> Código promocional</label>
+                    <input class="form-control" formControlName="codigo" type="text" id="promo-code" placeholder="">
+                </div>
+            </div>
+            <div class="col-12 col-md-3 col-lg-2 mt-md-4">
+                <button class="btn btn-primary btn-block" type="button" id="verify">Verificar</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 mt-4 offset-md-3 col-md-9 offset-lg-4 col-lg-8">
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt text-md-right">Importe (sin impuestos)</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--result">139,67€</span>
+                </div>
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt text-md-right">Descuento aplicado (sin impuestos)</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--result">-8,27€</span>
+                </div>
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt text-md-right">Gastos de gestión y envío (sin impuestos)</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--result">0,00€</span>
+                </div>
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt text-md-right">Gastos forma de pago (sin impuestos)</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--result">1,70€</span>
+                </div>
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt text-md-right">Impuestos</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--result">27,95€</span>
+                </div>
+                <div class="alt-pedido__content">
+                    <span class="alt-pedido__txt alt-pedido__txt--big">Total a pagar hoy</span>
+                    <span class="alt-pedido__txt alt-pedido__txt--big">161,05€</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</fieldset>
